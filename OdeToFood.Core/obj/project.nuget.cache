@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltYPsBZtKdiOn9sQcsxzuuhejkUR4RjQUJlw+E2+aHyNmZA83TnT80c/5W1IXUUJ3RtyH0mqIvJU+KGJOiMSQw==",
+  "success": true,
+  "projectFilePath": "C:\\Desarrollo\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
